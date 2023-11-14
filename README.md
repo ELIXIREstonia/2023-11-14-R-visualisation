@@ -1,4 +1,4 @@
-# 2023-11-44-R-visualisation
+# 2023-11-14-R-visualisation
 
 ELIXIR-EE training course on R, Rstudio and ggplot2 graphical grammar. Target to learners who have some experience with R and Rstudio and would like to learn the art of creating captivating images with ggplot2.
 
